@@ -1,20 +1,32 @@
 <!DOCTYPE html> 
   <html> 
     <head> 
-      <title>Harbor Light Community Center</title> 
+       <style>
+      .center-and-space-content {
+        text-align: center;
+        padding: 10px;
+      }
+    </style>
+      <title><h1>Harbor Light Community Center</h1></title>
     </head> 
+    <br><br>
   <body> 
 <font face="Arial, sans-serif"> 
   <header> 
-    <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
+     <div class="center-and-space-content">
+    <img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
       Logo"> 
-    Welcome to Harbor Light Community Center</center> 
+       <br>
+    <strong>Welcome to Harbor Light Community Center</strong>
   </header>
-  
+  <br><br>
   <header> 
-   <ul>
-    <alt= <li><a href="#Home">Home</a></li> | <li><a href="#About">About</a></li> | <li><a href="#Services">Services</a></li> | <li><a href="#Events">Events</a></li> | <li><a href="#Contact">Contact</a></li>
-   </ul>
+ <nav>
+      <a href="#about">About</a> |
+      <a href="#services">Services</a> |
+      <a href="#events">Events</a> |
+      <a href="#contact">Contact</a>
+    </nav>
   </header> 
     <nav class="aria-hidden="true"> 
   <a img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" 
