@@ -13,14 +13,14 @@
   
   <header> 
    <ul>
-    <li>Home</li> | <li>About</li> | <li>Services</li> | <li>Events</li> | <li>Contact</li>
+    <alt= <li><a href="#Home">Home</a></li> | <li><a href="#About">About</a></li> | <li><a href="#Services">Services</a></li> | <li><a href="#Events">Events</a></li> | <li><a href="#Contact">Contact</a></li>
    </ul>
   </header> 
-    <nav class="banner"> 
+    <nav class="aria-hidden="true"> 
   <a img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" 
     alt="Decorative Banner"> </a>
   </nav> 
-  <section> 
+  <section="id"> 
     <main>
 <h1>About Us</h1> 
 <p><strong>The Harbor Light Community Center</strong> has been at the heart of our community for over 
